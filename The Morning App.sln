@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Morning App", "The Morning App\The Morning App.csproj", "{BDD7A478-3585-4ED6-A27E-00B414F88FD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInfoPopup", "UserInfoPopup\UserInfoPopup.csproj", "{19A614B7-D423-43EC-9DB8-77E980DBA066}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDD7A478-3585-4ED6-A27E-00B414F88FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD7A478-3585-4ED6-A27E-00B414F88FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD7A478-3585-4ED6-A27E-00B414F88FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD7A478-3585-4ED6-A27E-00B414F88FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A614B7-D423-43EC-9DB8-77E980DBA066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A614B7-D423-43EC-9DB8-77E980DBA066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A614B7-D423-43EC-9DB8-77E980DBA066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A614B7-D423-43EC-9DB8-77E980DBA066}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D20C57E-0EE4-4BA7-8C1B-444FEB7BB8F0}
+	EndGlobalSection
+EndGlobal

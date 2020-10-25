@@ -1,0 +1,13 @@
+C:\Users\Hans\source\repos\The Morning App\UserInfoPopup\bin\Debug\UserInfoPopup.exe.config
+C:\Users\Hans\source\repos\The Morning App\UserInfoPopup\bin\Debug\UserInfoPopup.exe
+C:\Users\Hans\source\repos\The Morning App\UserInfoPopup\bin\Debug\UserInfoPopup.pdb
+C:\Users\Hans\source\repos\The Morning App\UserInfoPopup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hans\source\repos\The Morning App\UserInfoPopup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hans\source\repos\The Morning App\UserInfoPopup\obj\Debug\UserInfoPopup.csprojAssemblyReference.cache
+C:\Users\Hans\source\repos\The Morning App\UserInfoPopup\obj\Debug\UserInfoPopup.User_Info_Popup.resources
+C:\Users\Hans\source\repos\The Morning App\UserInfoPopup\obj\Debug\UserInfoPopup.Properties.Resources.resources
+C:\Users\Hans\source\repos\The Morning App\UserInfoPopup\obj\Debug\UserInfoPopup.csproj.GenerateResource.cache
+C:\Users\Hans\source\repos\The Morning App\UserInfoPopup\obj\Debug\UserInfoPopup.csproj.CoreCompileInputs.cache
+C:\Users\Hans\source\repos\The Morning App\UserInfoPopup\obj\Debug\UserInfoPopup.csproj.CopyComplete
+C:\Users\Hans\source\repos\The Morning App\UserInfoPopup\obj\Debug\UserInfoPopup.exe
+C:\Users\Hans\source\repos\The Morning App\UserInfoPopup\obj\Debug\UserInfoPopup.pdb
